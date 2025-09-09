@@ -42,5 +42,6 @@ Praticamos operações essenciais no fluxo de versionamento:
 | git checkout "nome da branch" | Altera a branch |
 | git branch -D "nome da branch" | Força a deleção da branch |
 | git branch -d "nome da branch" |Exclui de forma segura, somente quando as alterações forem mescladas |
-
+| git stash | Armazena temporariamente alterações locais no Git |
+| git stash pop | Restaura as alterações arquivadas |
 
